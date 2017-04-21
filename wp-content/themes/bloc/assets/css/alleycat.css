@@ -1279,7 +1279,7 @@ body.top-navbar.admin-bar {
   margin: -1px 0 0;
 }
 .navbar .dropdown-menu li {
-  border-bottom: 1px #000000 solid;
+  border-bottom: 1px #020202 solid;
   min-width: 200px;
 }
 .navbar .dropdown-menu li a {
@@ -1288,13 +1288,13 @@ body.top-navbar.admin-bar {
 }
 .navbar .dropdown-menu li.active a,
 .navbar .dropdown-menu li:hover a {
-  background: #000000;
+  background: #020202;
 }
 .navbar .dropdown-menu li:last-child {
   border-bottom: none;
 }
 .navbar .dropdown-menu li.ac-heading {
-  background: #000000;
+  background: #020202;
 }
 .navbar .dropdown-menu li.ac-heading a {
   padding: 8px 16px !important;
@@ -1352,7 +1352,7 @@ body.top-navbar.admin-bar {
 }
 .navbar li.ac-hero > a:hover {
   background: #aaaaaa !important;
-  color: #0a0a0a !important;
+  color: #0c0c0c !important;
 }
 .dropdown-menu li.dropdown > a:after {
   font-family: 'Entypo';
@@ -1408,7 +1408,7 @@ body.top-navbar.admin-bar {
   width: 100%;
   top: 0;
   left: 0;
-  background-color: #0a0a0a;
+  background-color: #0c0c0c;
   display: none;
   opacity: 0;
   z-index: 100;
@@ -1425,7 +1425,7 @@ body.top-navbar.admin-bar {
 .navbar-form #s-nav {
   background-color: #fff;
   border: none;
-  background-color: #0a0a0a;
+  background-color: #0c0c0c;
   color: #eeeeee;
   float: left;
   font-size: 18px;
@@ -7224,10 +7224,10 @@ li.wpmenucartli a.wpmenucart-contents span.cartcontents {
     transition: all 0.5s ease-in-out;
   }
   .navbar-default.ac-transparent-navbar .navbar-nav > li > a {
-    color: #0a0a0a !important;
+    color: #252525 !important;
   }
   .navbar-default.ac-transparent-navbar a.navbar-brand {
-    color: #0a0a0a !important;
+    color: #252525 !important;
   }
   .navbar-default.ac-transparent-navbar #site-logo.trans-nav-logo {
     opacity: 0;
@@ -7236,11 +7236,11 @@ li.wpmenucartli a.wpmenucart-contents span.cartcontents {
     opacity: 1;
   }
   .navbar-default.ac-transparent-navbar #nav-search-open {
-    color: #0a0a0a !important;
+    color: #252525 !important;
   }
   .navbar-default.ac-transparent-navbar li.ac-hero > a {
-    border-color: #0a0a0a !important;
-    color: #0a0a0a !important;
+    border-color: #252525 !important;
+    color: #252525 !important;
   }
 }
 @media (max-width: 991px) {

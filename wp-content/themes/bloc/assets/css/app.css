@@ -3898,7 +3898,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #0a0a0a;
+  background-color: #0c0c0c;
   border-color: #000000;
 }
 .navbar-default .navbar-brand {
@@ -3924,12 +3924,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #f7f7f7;
-  background-color: #1b1b1b;
+  background-color: #1d1d1d;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
 .navbar-default .navbar-nav > .disabled > a:focus {
-  color: #1b1b1b;
+  color: #1d1d1d;
   background-color: transparent;
 }
 .navbar-default .navbar-toggle {
@@ -3949,7 +3949,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #1b1b1b;
+  background-color: #1d1d1d;
   color: #f7f7f7;
 }
 @media (max-width: 991px) {
@@ -3965,12 +3965,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #f7f7f7;
-    background-color: #1b1b1b;
+    background-color: #1d1d1d;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus {
-    color: #1b1b1b;
+    color: #1d1d1d;
     background-color: transparent;
   }
 }
@@ -7068,11 +7068,11 @@ fieldset[disabled] #social-sharing .shareme .box {
 }
 .navbar .dropdown-menu {
   padding: 0;
-  background: #0a0a0a;
+  background: #0c0c0c;
 }
 .navbar .dropdown-menu li.active a,
 .navbar .dropdown-menu li:hover a {
-  background: #1b1b1b;
+  background: #1d1d1d;
   color: #f7f7f7;
 }
 .navbar.style1 .open > a:first-child,
@@ -7080,14 +7080,14 @@ fieldset[disabled] #social-sharing .shareme .box {
 .navbar.style1 .open > a:focus:first-child,
 .navbar.style1 a:hover:first-child,
 .navbar.style1 a:focus:first-child {
-  background: #0a0a0a;
+  background: #0c0c0c;
   border-bottom: 5px solid #aaaaaa;
   padding-bottom: 10px;
 }
 .navbar.style1 .active > a,
 .navbar.style1 .active > a:hover,
 .navbar.style1 .active > a:focus {
-  background: #0a0a0a;
+  background: #0c0c0c;
   border-bottom: 5px solid #aaaaaa;
 }
 .navbar.style1 .dropdown-menu {
@@ -7116,7 +7116,7 @@ fieldset[disabled] #social-sharing .shareme .box {
 .navbar.style2 .active > a,
 .navbar.style2 .active > a:hover,
 .navbar.style2 .active > a:focus {
-  background: #0a0a0a;
+  background: #0c0c0c;
   border-top: 3px solid #aaaaaa;
   padding-top: 31.5px;
 }
