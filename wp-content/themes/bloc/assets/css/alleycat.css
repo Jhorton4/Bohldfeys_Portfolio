@@ -2116,7 +2116,7 @@ footer .col-md-12 .widget.widget_nav_menu li a:after {
 }
 #footer-copyright {
   background-color: transparent;
-  color: #cccccc;
+  color: #eaeaea;
   padding: 20px 0 50px;
   overflow: hidden;
   text-align: center;
@@ -2141,12 +2141,12 @@ footer.content-info > .container > .row > div {
 footer .widget {
   margin-top: 40px;
   margin-bottom: 40px;
-  color: #cccccc;
+  color: #eaeaea;
 }
 footer .widget .widget-title {
   margin-top: -2px;
   display: table;
-  color: #e6e6e6;
+  color: #ffffff;
 }
 footer .widget.widget_archive ul > li,
 footer .widget.widget_categories ul > li,
@@ -2156,7 +2156,7 @@ footer .widget.widget_pages ul > li,
 footer .widget.widget_recent_entries ul > li,
 footer .widget.widget_recent_comments ul > li,
 footer .widget.widget_rss ul > li {
-  border-bottom: 1px #404040 solid;
+  border-bottom: 1px #5e5e5e solid;
 }
 footer .widget.widget_archive ul > li > ul > li,
 footer .widget.widget_categories ul > li > ul > li,
@@ -2166,33 +2166,33 @@ footer .widget.widget_pages ul > li > ul > li,
 footer .widget.widget_recent_entries ul > li > ul > li,
 footer .widget.widget_recent_comments ul > li > ul > li,
 footer .widget.widget_rss ul > li > ul > li {
-  border-top: 1px #404040 solid;
+  border-top: 1px #5e5e5e solid;
 }
 footer .widget a,
 footer .widget .nav > li > a {
-  color: #cccccc;
+  color: #eaeaea;
 }
 footer .widget .wp-caption {
   background: #262626;
 }
 footer .widget .wp-caption .wp-caption-text {
-  color: #cccccc;
+  color: #eaeaea;
 }
 footer .widget.widget_calendar caption,
 footer .widget.widget_calendar table > thead > tr > th,
 footer .widget.widget_calendar table > tbody > tr > td,
 footer .widget.widget_calendar table > tfoot > tr > td {
-  border-color: #262626;
+  border-color: #444444;
 }
 footer .widget.widget_calendar table tbody tr:nth-child(odd) {
-  background: #262626;
+  background: #444444;
 }
 footer .widget.widget_tag_cloud .tagcloud a {
-  border: 2px solid #cccccc;
-  color: #cccccc;
+  border: 2px solid #eaeaea;
+  color: #eaeaea;
 }
 footer .widget.widget_tag_cloud .tagcloud a:hover {
-  background: #cccccc;
+  background: #eaeaea;
   color: #333333;
 }
 footer a:hover,
