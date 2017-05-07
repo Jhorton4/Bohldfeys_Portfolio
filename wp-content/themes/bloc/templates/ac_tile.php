@@ -147,11 +147,11 @@ if(!empty($post_terms)){
 				<?php if (get_post_type($post) == 'ac_testimonial') : ?>
 					<?php echo ac_testimonial_render($post->ID, false, 250); ?>
 				<?php endif; ?>			
-				
 				<?php // Footer: Terms or Social ?>		
 				<?php if (get_post_type($post) == 'ac_person') : ?>
 					<div class='ac-tile-footer'>
 						<?php echo ac_person_get_all_social_icons(); ?>
+				
 					</div>
 				<?php else : ?>
 					<?php if ($show_terms) : ?>
